@@ -1,0 +1,82 @@
+#!/bin/bahs
+
+clear
+slep1
+echo "Loding"...|lolcat
+selp2
+clear
+echo "Welcom" |lolcat
+slep2
+clear
+echo"====================================================="
+outhor : JANCUK
+Github : https://github.com/erlanggaprtmlbs
+instagram : erlanggaprtmlbs
+======================================================================
+
+######################################################################
+CTRL + C
+######################################################################
+trap ctrl_c INT
+ctrl_c0 {
+clear
+echo "[#] detected ctrl+c exit....."
+echo "[#] JANGAN SALAH GUNAKAN TOOLS INI
+slep 1
+echo'''
+echo "[#] jANCUK"
+
+echo "thanks..."
+slep 1
+exit
+}
+
+lagi=1
+while [$lagi-it3];
+do
+echo"'
+echo"'
+echo "1.hack fb"| lolcat
+echo"-------------------" | lolcat
+echo "2.hack camera"| lolcat
+echo"-------------------" | lolcat
+echo "3.deface"| lolcat
+echo"-------------------"
+echo "00 exit"| lolcat
+echo"'
+read -p "pilih no:plit;
+
+cese $pill in
+1)clear
+git clone https://github.com/erlanggaprtmalbs/fbbrute
+cd fbbrute
+pip2 install mechanize
+pythone2 force.py
+
+;;
+
+2)clear
+git clone htpps;//github.com/erlangga/camera
+cd camera
+sh camera.sh
+
+;;
+
+3)clear
+git clone htpps://github.com/erlanggaprtmlbs/deface
+cd deface
+sh deface.sh
+
+;;
+
+00)clear
+echo follow instagram erlanggaprtmlbs
+exit
+
+
+esac
+done
+done
+
+
+
